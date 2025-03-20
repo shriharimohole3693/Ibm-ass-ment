@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <!-- Juan test. Will this overwrite other comments? -->
+  <string name="connected_accounts_account_num_connect">Connect My Account</string>
+  <!-- The subtitle displayed in the subtitle of privacy settings cell in the legal and privacy section. -->
+  <string name="privacy_settings_subtitle">Change app preferences by Juan</string>
+</resources>
