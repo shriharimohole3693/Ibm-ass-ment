@@ -29,7 +29,3 @@ Task 8: Fork the  repository. (2 pts)
 Task 9: Fix the typo and submit the first pull request. (2 pts)
 
 Task 10: Revert the typo and submit a second pull request. (2 pts)
-
-## Subheader
-
-Watch Youtube Tutorial. Edited from VS Code in my Computer
